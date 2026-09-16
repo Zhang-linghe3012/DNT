@@ -1,0 +1,39 @@
+[
+  {
+    "id": "RX-DEMO-001",
+    "patientId": "DEMO_PATIENT",
+    "patientName": "Bệnh nhân minh họa",
+    "condition": "Viêm da cơ địa (eczema) mức độ trung bình",
+    "issuedAt": "2026-09-10",
+    "treatmentDays": 7,
+    "medications": [
+      {
+        "name": "Cetirizine 10mg",
+        "usage": "uống",
+        "dosage": "10mg (1 viên)",
+        "frequency": "1 lần/ngày",
+        "timing": "20:00",
+        "duration": "7 ngày",
+        "effect": "Kháng histamine, giảm ngứa do dị ứng và viêm da."
+      },
+      {
+        "name": "Betamethasone valerate 0.1% kem bôi",
+        "usage": "bôi ngoài da",
+        "dosage": "lớp mỏng (dày như hạt đậu)",
+        "frequency": "2 lần/ngày",
+        "timing": "08:00, 21:00",
+        "duration": "7 ngày",
+        "effect": "Corticoid tại chỗ, kháng viêm, giảm mẩn đỏ và ngứa."
+      },
+      {
+        "name": "Kem dưỡng ẩm (emollient)",
+        "usage": "bôi ngoài da",
+        "dosage": "đủ phủ toàn vùng da khô",
+        "frequency": "2-3 lần/ngày",
+        "timing": "08:00; 14:00; 21:00",
+        "duration": "toàn liệu trình 7 ngày",
+        "effect": "Phục hồi hàng rào bảo vệ da, giảm khô nứt, ngăn tái phát."
+      }
+    ]
+  }
+]
